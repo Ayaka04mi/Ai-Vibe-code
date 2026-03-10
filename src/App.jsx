@@ -4,7 +4,7 @@ import { UploadCloud, Image as ImageIcon, Download, Sparkles, ArrowLeft, Home, L
 // --- Configuration & Constants ---
 // ⚠️ สำคัญ: ถ้ารันบนเครื่องตัวเอง (Local) ให้ไปขอ API Key ฟรีจาก Google มาใส่ในช่องว่างด้านล่างนี้
 // เช่น const apiKey = "AIzaSyxxxxxxxxxxxxxxxxxxxxxxxxxxx";
-const apiKey = "AIzaSyCi0tQYVekKugA3cI0sgsFdimSNI9IGeKc";
+const apiKey = "AIzaSyDFO0SklHKuWLdyPsMGY-_FThkciRVEpd0";
 const ANIME_STYLES = [
   { id: 'gachiakuta', name: 'Gachiakuta', color: 'bg-orange-500', desc: 'ลายเส้นดิบเถื่อน เส้นหนา กราฟฟิตี้' },
   { id: 'jujutsu_kaisen', name: 'Jujutsu Kaisen', color: 'bg-blue-600', desc: 'ลายเส้นคม ดาร์กแฟนตาซี' },
